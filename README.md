@@ -1,4 +1,4 @@
-#**Mission-to-Mars**
+# **Mission-to-Mars**
 
 This project included webscraping from different websites about Mars to create a website run by flask. BeatifulSoup and Splinter were used to parse the info from the websites.  Flask and mongodb were utilized for the new website of the mars information combined.
 
